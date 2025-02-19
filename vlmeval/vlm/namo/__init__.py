@@ -1,0 +1,1 @@
+from .namo import Namo
